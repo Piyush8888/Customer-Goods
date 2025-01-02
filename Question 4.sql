@@ -1,4 +1,4 @@
-Question 5
+Question 4
 Follow-up: Which segment had the most increase in unique products in 2021 vs 2020? The final output contains these fields,
 segment
 product_count_2020
